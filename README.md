@@ -1,1 +1,1 @@
-# shuffle-sort application where user can shuffle the number any number of times and he can sort it to ascending order
+# Clone the app and run it on browser(chrome) directly
